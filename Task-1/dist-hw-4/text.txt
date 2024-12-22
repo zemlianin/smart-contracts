@@ -1,0 +1,9 @@
+Homework 4, Part 1
+
+I used the Hardhat network.
+
+While generating 100 transactions, I saved their hashes in a CSV file.
+Then, I used web3.py in Google Colab to get the gas used for each transaction
+Hashes from the file and built a graph based on the results.
+
+The work was done on a remote server, so Google Colab had access to my local network.

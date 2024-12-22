@@ -1,0 +1,15 @@
+Homework 4, Part 2
+
+The deployment was done using the file scripts/deploy.js.
+The Polygon Amoy network was used.
+The contract was verified with the command:
+
+```
+npx hardhat verify --network polygon_amoy 0xd33468097d69FD4296B766AB9eeeE794eF65e213
+```
+
+Contract Address:
+0xd33468097d69FD4296B766AB9eeeE794eF65e213
+
+Explorer Link:
+https://amoy.polygonscan.com/address/0xd33468097d69FD4296B766AB9eeeE794eF65e213#writeContract
